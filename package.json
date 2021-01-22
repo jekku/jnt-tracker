@@ -1,0 +1,22 @@
+{
+  "name": "jnt-tracker",
+  "version": "0.0.1",
+  "description": "JNT Package Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekku/jnt-tracker.git"
+  },
+  "author": "Jekri Orlina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jekku/jnt-tracker/issues"
+  },
+  "homepage": "https://github.com/jekku/jnt-tracker#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
